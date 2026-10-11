@@ -12,8 +12,8 @@ The system uses XLM-RoBERTa-base with LoRA adapters and task-specific prediction
 
 For full implementation details, see:
 
- <!--- [Short approach summary](docs/approach_summary.pdf)
-- [Detailed technical report](docs/technical_report.pdf) -->
+- [Short approach summary](docs/short_assessment.pdf)
+- [Detailed technical report](docs/detailed_assessment.pdf) 
 
 ## Repository Structure
 
