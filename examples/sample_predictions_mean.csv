@@ -1,0 +1,57 @@
+questionID,inference_mode,questionStatement,text,grammar_prediction,content_prediction,cefr_soft_score,cefr_uncalibrated_id,cefr_prediction_id,cefr_prediction
+example_01,mean,"Il tuo compito è scrivere un'e-mail a una clinica per annullare l'appuntamento di martedì alle 11:00 a causa di un imprevisto problema di viaggio. Chiedi un nuovo appuntamento per il pomeriggio del venerdì successivo, fornisci il numero paziente P-7714 e chiedi alla clinica di confermare il cambiamento.","Ciao [RECIPIENT],
+
+Ho bisogno di aiuto per una questione.
+
+Resto in attesa di una risposta.
+
+Cordiali saluti,
+[NAME]",0.029220581,0.03286743,0.037898786,0,0,A1
+example_02,mean,"Schrijf een bericht waarin je meldt dat overschrijving TX-8820 van 24,000, uitgevoerd op 3 april, nog steeds in behandeling is en de ontvanger het bedrag niet heeft ontvangen. Vermeld het bijgevoegde bewijs, vraag om de betaling te traceren en vraag om een statusupdate.","Beste [RECIPIENT],
+
+Ik hoop dat goed met u gaat.
+
+Ik schrijf u over overschrijving TX-8820 van 24,000, die nog steeds als in behandeling wordt weergegeven.
+
+Ik hoor graag van u.
+
+Met vriendelijke groeten,
+[NAME]",4.4453125,0.9638672,1.4816442,1,1,A2
+example_03,mean,"Συντάξτε ένα email σε έναν προμηθευτή αναφέροντας ότι έλειπαν 20 καλώδια δικτύου από την παραγγελία PO-1842, η οποία παραδόθηκε τη Δευτέρα. Ζητήστε να παραδοθούν τα καλώδια έως την Παρασκευή, αναφέρετε ότι επισυνάπτονται φωτογραφίες και το δελτίο συσκευασίας και ζητήστε επιβεβαίωση αποστολής.","Αγαπητέ/ή [RECIPIENT],
+
+Σας γράφω για να αναφέρω ότι λείπουν είδη από την παραγγελία PO-1842.
+
+Επισυνάπτονται φωτογραφίες του πακέτου και αντίγραφο του δελτίου συσκευασίας.
+
+Παρακαλώ στείλτε τα καλώδια που λείπουν ώστε να παραδοθούν έως τον Παρασκευή.
+
+Σας ευχαριστώ για τον χρόνο σας.
+
+Με φιλικούς χαιρετισμούς,
+[NAME]",2.546875,2.4941406,1.3251221,1,1,A2
+example_04,mean,"Twoim zadaniem jest napisanie wiadomości e-mail do kierownika zespołu, informując, że pierwszy etap projektu został ukończony, a 92 procent testów kończy się powodzeniem. Wyjaśnij, że pozostały dwa błędy, zaproponuj spotkanie przeglądowe we wtorek o godzinie 11:00, wspomnij o załączonym zaktualizowanym planie i poproś o potwierdzenie.","Szanowny Zespole,
+
+Obecna wersja przechodzi 92 procent testów, chociaż nadal pozostały dwa błędy do naprawienia.
+
+Piszę, aby poinformować, pierwszy etap projektu został ukończony.
+
+Proponuję spotkanie przeglądowe we wtorek o godzinie 11:00.
+
+Proszę o potwierdzenie, czy proponowana godzina spotkania jest odpowiednia.
+
+Z wyrazami szacunku,
+[NAME]",4.6484375,2.7792969,2.2463827,2,2,B1
+example_05,mean,"Redija uma mensagem solicitando informações sobre a elegibilidade para a Bolsa de Data Science antes do prazo de 15 de maio. Pergunte se estudantes em tempo parcial podem candidatar-se, mencione o histórico acadêmico em anexo e solicite orientações.","Bom dia,
+
+Estou matriculado em regime de tempo parcial e sei que o prazo de candidatura termina em 15 de maio.
+
+Escrevo para pedir informações sobre os critérios de elegibilidade para a Bolsa de Data Science.
+
+Poderia esclarecer se estudantes em tempo parcial podem candidatar-se e indicar a procedimento de inscrição?
+
+O meu histórico acadêmico atual está anexado para consulta.
+
+Por favor, confirme quais documentos adicionais devo apresentar.
+
+Atenciosamente,
+[NAME]",2.2832031,3.828125,2.1226864,2,2,B1

@@ -1,5 +1,5 @@
-questionID,questionStatement,text,grammar_prediction,content_prediction,cefr_soft_score,cefr_uncalibrated_id,cefr_prediction_id,cefr_prediction
-example_01,"Il tuo compito è scrivere un'e-mail a una clinica per annullare l'appuntamento di martedì alle 11:00 a causa di un imprevisto problema di viaggio. Chiedi un nuovo appuntamento per il pomeriggio del venerdì successivo, fornisci il numero paziente P-7714 e chiedi alla clinica di confermare il cambiamento.","Ciao [RECIPIENT],
+questionID,inference_mode,questionStatement,text,grammar_prediction,content_prediction,cefr_soft_score,cefr_uncalibrated_id,cefr_prediction_id,cefr_prediction
+example_01,ensemble,"Il tuo compito è scrivere un'e-mail a una clinica per annullare l'appuntamento di martedì alle 11:00 a causa di un imprevisto problema di viaggio. Chiedi un nuovo appuntamento per il pomeriggio del venerdì successivo, fornisci il numero paziente P-7714 e chiedi alla clinica di confermare il cambiamento.","Ciao [RECIPIENT],
 
 Ho bisogno di aiuto per una questione.
 
@@ -7,7 +7,7 @@ Resto in attesa di una risposta.
 
 Cordiali saluti,
 [NAME]",0.0042648315,0.03286743,0.037898786,0,0,A1
-example_02,"Schrijf een bericht waarin je meldt dat overschrijving TX-8820 van 24,000, uitgevoerd op 3 april, nog steeds in behandeling is en de ontvanger het bedrag niet heeft ontvangen. Vermeld het bijgevoegde bewijs, vraag om de betaling te traceren en vraag om een statusupdate.","Beste [RECIPIENT],
+example_02,ensemble,"Schrijf een bericht waarin je meldt dat overschrijving TX-8820 van 24,000, uitgevoerd op 3 april, nog steeds in behandeling is en de ontvanger het bedrag niet heeft ontvangen. Vermeld het bijgevoegde bewijs, vraag om de betaling te traceren en vraag om een statusupdate.","Beste [RECIPIENT],
 
 Ik hoop dat goed met u gaat.
 
@@ -17,7 +17,7 @@ Ik hoor graag van u.
 
 Met vriendelijke groeten,
 [NAME]",4.4804688,0.9638672,1.4816442,1,1,A2
-example_03,"Συντάξτε ένα email σε έναν προμηθευτή αναφέροντας ότι έλειπαν 20 καλώδια δικτύου από την παραγγελία PO-1842, η οποία παραδόθηκε τη Δευτέρα. Ζητήστε να παραδοθούν τα καλώδια έως την Παρασκευή, αναφέρετε ότι επισυνάπτονται φωτογραφίες και το δελτίο συσκευασίας και ζητήστε επιβεβαίωση αποστολής.","Αγαπητέ/ή [RECIPIENT],
+example_03,ensemble,"Συντάξτε ένα email σε έναν προμηθευτή αναφέροντας ότι έλειπαν 20 καλώδια δικτύου από την παραγγελία PO-1842, η οποία παραδόθηκε τη Δευτέρα. Ζητήστε να παραδοθούν τα καλώδια έως την Παρασκευή, αναφέρετε ότι επισυνάπτονται φωτογραφίες και το δελτίο συσκευασίας και ζητήστε επιβεβαίωση αποστολής.","Αγαπητέ/ή [RECIPIENT],
 
 Σας γράφω για να αναφέρω ότι λείπουν είδη από την παραγγελία PO-1842.
 
@@ -29,7 +29,7 @@ example_03,"Συντάξτε ένα email σε έναν προμηθευτή α�
 
 Με φιλικούς χαιρετισμούς,
 [NAME]",2.6542969,2.4941406,1.3251221,1,1,A2
-example_04,"Twoim zadaniem jest napisanie wiadomości e-mail do kierownika zespołu, informując, że pierwszy etap projektu został ukończony, a 92 procent testów kończy się powodzeniem. Wyjaśnij, że pozostały dwa błędy, zaproponuj spotkanie przeglądowe we wtorek o godzinie 11:00, wspomnij o załączonym zaktualizowanym planie i poproś o potwierdzenie.","Szanowny Zespole,
+example_04,ensemble,"Twoim zadaniem jest napisanie wiadomości e-mail do kierownika zespołu, informując, że pierwszy etap projektu został ukończony, a 92 procent testów kończy się powodzeniem. Wyjaśnij, że pozostały dwa błędy, zaproponuj spotkanie przeglądowe we wtorek o godzinie 11:00, wspomnij o załączonym zaktualizowanym planie i poproś o potwierdzenie.","Szanowny Zespole,
 
 Obecna wersja przechodzi 92 procent testów, chociaż nadal pozostały dwa błędy do naprawienia.
 
@@ -41,7 +41,7 @@ Proszę o potwierdzenie, czy proponowana godzina spotkania jest odpowiednia.
 
 Z wyrazami szacunku,
 [NAME]",4.6914062,2.7792969,2.2463827,2,2,B1
-example_05,"Redija uma mensagem solicitando informações sobre a elegibilidade para a Bolsa de Data Science antes do prazo de 15 de maio. Pergunte se estudantes em tempo parcial podem candidatar-se, mencione o histórico acadêmico em anexo e solicite orientações.","Bom dia,
+example_05,ensemble,"Redija uma mensagem solicitando informações sobre a elegibilidade para a Bolsa de Data Science antes do prazo de 15 de maio. Pergunte se estudantes em tempo parcial podem candidatar-se, mencione o histórico acadêmico em anexo e solicite orientações.","Bom dia,
 
 Estou matriculado em regime de tempo parcial e sei que o prazo de candidatura termina em 15 de maio.
 
