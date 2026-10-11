@@ -1,0 +1,14 @@
+{
+  "base_model": "xlm-roberta-base",
+  "epochs": 8,
+  "best_epoch": 8,
+  "best_selection_score": 0.8399423800695383,
+  "max_length": 384,
+  "projection_size": 256,
+  "lora_rank": 8,
+  "lora_alpha": 16,
+  "cefr_training": "exact_and_interval_ordinal",
+  "grammar_missing_label": -100,
+  "content_missing_label": -100,
+  "cefr_missing_label": -100
+}
